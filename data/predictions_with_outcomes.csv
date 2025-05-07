@@ -1,64 +1,64 @@
-,Bracket,Slot,Seed,Season,TeamID,SeedNum,TeamName,CorrectTeamName
-0,1,R1W1,W01,2025,1181,1,Duke,Duke
-1,1,R1W2,W02,2025,1104,2,Alabama,Alabama
-2,1,R1W3,W03,2025,1458,3,Wisconsin,Wisconsin
-3,1,R1W4,W04,2025,1112,4,Arizona,Arizona
-4,1,R1W5,W12,2025,1251,12,Liberty,Oregon
-5,1,R1W6,W06,2025,1140,6,BYU,BYU
-6,1,R1W7,W07,2025,1388,7,St Mary's CA,St Mary's CA
-7,1,R1W8,W08,2025,1280,8,Mississippi St,Baylor
-8,1,R1X1,X01,2025,1222,1,Houston,Houston
-9,1,R1X2,X02,2025,1397,2,Tennessee,Tennessee
-10,1,R1X3,X14,2025,1407,14,Troy,Kentucky
-11,1,R1X4,X04,2025,1345,4,Purdue,Purdue
-12,1,R1X5,X05,2025,1155,5,Clemson,McNeese
-13,1,R1X6,X06,2025,1228,6,Illinois,Illinois
-14,1,R1X7,X07,2025,1417,7,UCLA,UCLA
-15,1,R1X8,X08,2025,1211,8,Gonzaga,Gonzaga
-16,1,R1Y1,Y01,2025,1120,1,Auburn,Auburn
-17,1,R1Y2,Y02,2025,1277,2,Michigan St,Michigan St
-18,1,R1Y3,Y03,2025,1235,3,Iowa St,Iowa St
-19,1,R1Y4,Y13,2025,1463,13,Yale,TX A&M
-20,1,R1Y5,Y12,2025,1471,12,UC San Diego,MICH
-21,1,R1Y6,Y06,2025,1279,6,Mississippi,Mississippi
-22,1,R1Y7,Y07,2025,1266,7,Marquette,New Mexico
-23,1,R1Y8,Y08,2025,1257,8,Louisville,Creighton
-24,1,R1Z1,Z01,2025,1196,1,Florida,Florida
-25,1,R1Z2,Z02,2025,1385,2,St John's,St John's
-26,1,R1Z3,Z03,2025,1403,3,Texas Tech,Texas Tech
-27,1,R1Z4,Z04,2025,1268,4,Maryland,Maryland
-28,1,R1Z5,Z05,2025,1272,5,Memphis,CSU
-29,1,R1Z6,Z06,2025,1281,6,Missouri,Drake
-30,1,R1Z7,Z07,2025,1242,7,Kansas,Arkansas
-31,1,R1Z8,Z08,2025,1163,8,Connecticut,Connecticut
-32,1,R2W1,W01,2025,1181,1,Duke,Duke
-33,1,R2W2,W07,2025,1388,7,St Mary's CA,Alabama
-34,1,R2W3,W06,2025,1140,6,BYU,BYU
-35,1,R2W4,W04,2025,1112,4,Arizona,Arizona
-36,1,R2X1,X01,2025,1222,1,Houston,Houston
-37,1,R2X2,X02,2025,1397,2,Tennessee,Tennessee
-38,1,R2X3,X06,2025,1228,6,Illinois,Kentucky
-39,1,R2X4,X04,2025,1345,4,Purdue,Purdue
-40,1,R2Y1,Y01,2025,1120,1,Auburn,Auburn
-41,1,R2Y2,Y07,2025,1266,7,Marquette,Michigan St
-42,1,R2Y3,Y03,2025,1235,3,Iowa St,Mississippi
-43,1,R2Y4,Y13,2025,1463,13,Yale,Michigan
-44,1,R2Z1,Z01,2025,1196,1,Florida,Florida
-45,1,R2Z2,Z07,2025,1242,7,Kansas,Arkansas
-46,1,R2Z3,Z03,2025,1403,3,Texas Tech,Texas Tech
-47,1,R2Z4,Z04,2025,1268,4,Maryland,Maryland
-48,1,R3W1,W01,2025,1181,1,Duke,Duke
-49,1,R3W2,W06,2025,1140,6,BYU,Alabama
-50,1,R3X1,X01,2025,1222,1,Houston,Houston
-51,1,R3X2,X02,2025,1397,2,Tennessee,Tennessee
-52,1,R3Y1,Y01,2025,1120,1,Auburn,Auburn
-53,1,R3Y2,Y03,2025,1235,3,Iowa St,Michigan St
-54,1,R3Z1,Z04,2025,1268,4,Maryland,Florida
-55,1,R3Z2,Z03,2025,1403,3,Texas Tech,Texas Tech
-56,1,R4W1,W01,2025,1181,1,Duke,Duke
-57,1,R4X1,X01,2025,1222,1,Houston,Houston
-58,1,R4Y1,Y01,2025,1120,1,Auburn,Auburn
-59,1,R4Z1,Z04,2025,1268,4,Maryland,Florida
-60,1,R5WX,X01,2025,1222,1,Houston,Houston
-61,1,R5YZ,Z04,2025,1268,4,Maryland,Florida
-62,1,R6CH,Z04,2025,1268,4,Maryland,Florida
+,Bracket,Slot,Seed,Season,TeamID,SeedNum,TeamName,CorrectTeamName,Chalk
+0,1,R1W1,W01,2025,1181,1,Duke,Duke,Duke
+1,1,R1W2,W02,2025,1104,2,Alabama,Alabama,Alabama
+2,1,R1W3,W03,2025,1458,3,Wisconsin,Wisconsin,Wisconsin
+3,1,R1W4,W04,2025,1112,4,Arizona,Arizona,Arizona
+4,1,R1W5,W12,2025,1251,12,Liberty,Oregon,Oregon
+5,1,R1W6,W06,2025,1140,6,BYU,BYU,BYU
+6,1,R1W7,W07,2025,1388,7,St Mary's CA,St Mary's CA,St Mary's CA
+7,1,R1W8,W08,2025,1280,8,Mississippi St,Baylor,Mississippi St
+8,1,R1X1,X01,2025,1222,1,Houston,Houston,Houston
+9,1,R1X2,X02,2025,1397,2,Tennessee,Tennessee,Tennessee
+10,1,R1X3,X14,2025,1407,14,Troy,Kentucky,Kentucky
+11,1,R1X4,X04,2025,1345,4,Purdue,Purdue,Purdue
+12,1,R1X5,X05,2025,1155,5,Clemson,McNeese,Clemson
+13,1,R1X6,X06,2025,1228,6,Illinois,Illinois,Illinois
+14,1,R1X7,X07,2025,1417,7,UCLA,UCLA,UCLA
+15,1,R1X8,X08,2025,1211,8,Gonzaga,Gonzaga,Gonzaga
+16,1,R1Y1,Y01,2025,1120,1,Auburn,Auburn,Auburn
+17,1,R1Y2,Y02,2025,1277,2,Michigan St,Michigan St,Michigan St
+18,1,R1Y3,Y03,2025,1235,3,Iowa St,Iowa St,Iowa St
+19,1,R1Y4,Y13,2025,1463,13,Yale,TX A&M,TX A&M
+20,1,R1Y5,Y12,2025,1471,12,UC San Diego,MICH,MICH
+21,1,R1Y6,Y06,2025,1279,6,Mississippi,Mississippi,Mississippi
+22,1,R1Y7,Y07,2025,1266,7,Marquette,New Mexico,Marquette
+23,1,R1Y8,Y08,2025,1257,8,Louisville,Creighton,Louisville
+24,1,R1Z1,Z01,2025,1196,1,Florida,Florida,Florida
+25,1,R1Z2,Z02,2025,1385,2,St John's,St John's,St John's
+26,1,R1Z3,Z03,2025,1403,3,Texas Tech,Texas Tech,Texas Tech
+27,1,R1Z4,Z04,2025,1268,4,Maryland,Maryland,Maryland
+28,1,R1Z5,Z05,2025,1272,5,Memphis,CSU,Memphis
+29,1,R1Z6,Z06,2025,1281,6,Missouri,Drake,Missouri
+30,1,R1Z7,Z07,2025,1242,7,Kansas,Arkansas,Kansas
+31,1,R1Z8,Z08,2025,1163,8,Connecticut,Connecticut,Connecticut
+32,1,R2W1,W01,2025,1181,1,Duke,Duke,Duke
+33,1,R2W2,W07,2025,1388,7,St Mary's CA,Alabama,Alabama
+34,1,R2W3,W06,2025,1140,6,BYU,BYU,Wisconsin
+35,1,R2W4,W04,2025,1112,4,Arizona,Arizona,Arizona
+36,1,R2X1,X01,2025,1222,1,Houston,Houston,Houston
+37,1,R2X2,X02,2025,1397,2,Tennessee,Tennessee,Tennessee
+38,1,R2X3,X06,2025,1228,6,Illinois,Kentucky,Kentucky
+39,1,R2X4,X04,2025,1345,4,Purdue,Purdue,Purdue
+40,1,R2Y1,Y01,2025,1120,1,Auburn,Auburn,Auburn
+41,1,R2Y2,Y07,2025,1266,7,Marquette,Michigan St,Michigan St
+42,1,R2Y3,Y03,2025,1235,3,Iowa St,Mississippi,Iowa St
+43,1,R2Y4,Y13,2025,1463,13,Yale,Michigan,TX A&M
+44,1,R2Z1,Z01,2025,1196,1,Florida,Florida,Florida
+45,1,R2Z2,Z07,2025,1242,7,Kansas,Arkansas,St John's
+46,1,R2Z3,Z03,2025,1403,3,Texas Tech,Texas Tech,Texas Tech
+47,1,R2Z4,Z04,2025,1268,4,Maryland,Maryland,Maryland
+48,1,R3W1,W01,2025,1181,1,Duke,Duke,Duke
+49,1,R3W2,W06,2025,1140,6,BYU,Alabama,Alabama
+50,1,R3X1,X01,2025,1222,1,Houston,Houston,Houston
+51,1,R3X2,X02,2025,1397,2,Tennessee,Tennessee,Tennessee
+52,1,R3Y1,Y01,2025,1120,1,Auburn,Auburn,Auburn
+53,1,R3Y2,Y03,2025,1235,3,Iowa St,Michigan St,Michigan St
+54,1,R3Z1,Z04,2025,1268,4,Maryland,Florida,Florida
+55,1,R3Z2,Z03,2025,1403,3,Texas Tech,Texas Tech,St John's
+56,1,R4W1,W01,2025,1181,1,Duke,Duke,Duke
+57,1,R4X1,X01,2025,1222,1,Houston,Houston,Houston
+58,1,R4Y1,Y01,2025,1120,1,Auburn,Auburn,Auburn
+59,1,R4Z1,Z04,2025,1268,4,Maryland,Florida,Florida
+60,1,R5WX,X01,2025,1222,1,Houston,Houston,Duke
+61,1,R5YZ,Z04,2025,1268,4,Maryland,Florida,Auburn
+62,1,R6CH,Z04,2025,1268,4,Maryland,Florida,Auburn
