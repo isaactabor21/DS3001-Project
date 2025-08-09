@@ -1,4 +1,5 @@
 # DS3001-Project
+**Authors:** Isaac Tabor and Kimberly L
 
 This project explores the use of machine learning to predict NCAA March Madness basketball outcomes using a comprehensive dataset of historical team performance and game results. Leveraging data from the 2003 to 2024 seasons, we built a supervised binary classification model using XGBoost, with the goal of estimating the probability that a given team will win a specific tournament matchup. We also used an XGBRegressor, which is typically used for regression tasks; however, we used the log loss metric, which aligned with the classification nature of our study, and our outputs predicted probabilities of one class (Team A winning), and we used a threshold of .5 to classify each game into the appropriate binary class (Win vs. Lose). 
 
